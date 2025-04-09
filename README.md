@@ -16,18 +16,20 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sushant-aher-a1b148263/) 
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nvvdmanikanta6666@gmail.com) 
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sushant-aher-a1b148263/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6281177458)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nvvdmanikanta6666@gmail.com)
+
 
 # 💻 Tech Stack:
   
 ### **AWS Services**
-![Amazon EC2](https://img.shields.io/badge/EC2-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Amazon S3](https://img.shields.io/badge/S3-%23FF9900.svg?style=plastic&logo=amazon-s3&logoColor=white) ![Lambda](https://img.shields.io/badge/Lambda-%23FF9900.svg?style=plastic&logo=aws-lambda&logoColor=white) ![RDS](https://img.shields.io/badge/RDS-%23FF9900.svg?style=plastic&logo=amazon-rds&logoColor=white) ![VPC](https://img.shields.io/badge/VPC-%23FF9900.svg?style=plastic&logo=amazon-vpc&logoColor=white) ![CloudFormation](https://img.shields.io/badge/CloudFormation-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![ECS](https://img.shields.io/badge/ECS-%23FF9900.svg?style=plastic&logo=amazon-ecs&logoColor=white) ![EKS](https://img.shields.io/badge/EKS-%23FF9900.svg?style=plastic&logo=amazon-eks&logoColor=white) ![DynamoDB](https://img.shields.io/badge/DynamoDB-%230A74DA.svg?style=plastic&logo=amazon-dynamodb&logoColor=white) ![CloudFront](https://img.shields.io/badge/CloudFront-%23FF9900.svg?style=plastic&logo=amazon-cloudfront&logoColor=white) ![SNS](https://img.shields.io/badge/SNS-%23FF9900.svg?style=plastic&logo=amazon-sns&logoColor=white) ![SQS](https://img.shields.io/badge/SQS-%23FF9900.svg?style=plastic&logo=amazon-sqs&logoColor=white) ![Route 53](https://img.shields.io/badge/Route_53-%23FF9900.svg?style=plastic&logo=amazon-route53&logoColor=white) ![IAM](https://img.shields.io/badge/IAM-%23FF9900.svg?style=plastic&logo=amazon-iam&logoColor=white) ![AWS Auto Scaling](https://img.shields.io/badge/Auto_Scaling-%23FF9900.svg?style=plastic&logo=amazon-autoscaling&logoColor=white) ![Elastic Load Balancing](https://img.shields.io/badge/ELB-%23FF9900.svg?style=plastic&logo=amazon-elb&logoColor=white) ![AWS SSM](https://img.shields.io/badge/SSM-%23FF9900.svg?style=plastic&logo=amazon-ssm&logoColor=white) 
+![Amazon EC2](https://img.shields.io/badge/EC2-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Amazon S3](https://img.shields.io/badge/S3-%23FF9900.svg?style=plastic&logo=amazon-s3&logoColor=white) ![Lambda](https://img.shields.io/badge/Lambda-%23FF9900.svg?style=plastic&logo=aws-lambda&logoColor=white) ![RDS](https://img.shields.io/badge/RDS-%23FF9900.svg?style=plastic&logo=amazon-rds&logoColor=white) ![VPC](https://img.shields.io/badge/VPC-%23FF9900.svg?style=plastic&logo=amazon-vpc&logoColor=white) ![CloudFormation](https://img.shields.io/badge/CloudFormation-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![ECS](https://img.shields.io/badge/ECS-%23FF9900.svg?style=plastic&logo=amazon-ecs&logoColor=white) ![EKS](https://img.shields.io/badge/EKS-%23FF9900.svg?style=plastic&logo=amazon-eks&logoColor=white) ![DynamoDB](https://img.shields.io/badge/DynamoDB-%23FF9900.svg?style=plastic&logo=amazon-dynamodb&logoColor=white)
+![CloudFront](https://img.shields.io/badge/CloudFront-%23FF9900.svg?style=plastic&logo=amazon-cloudfront&logoColor=white) ![SNS](https://img.shields.io/badge/SNS-%23FF9900.svg?style=plastic&logo=amazon-sns&logoColor=white) ![SQS](https://img.shields.io/badge/SQS-%23FF9900.svg?style=plastic&logo=amazon-sqs&logoColor=white) ![Route 53](https://img.shields.io/badge/Route_53-%23FF9900.svg?style=plastic&logo=amazon-route53&logoColor=white) ![IAM](https://img.shields.io/badge/IAM-%23FF9900.svg?style=plastic&logo=amazon-iam&logoColor=white) ![AWS Auto Scaling](https://img.shields.io/badge/Auto_Scaling-%23FF9900.svg?style=plastic&logo=amazon-autoscaling&logoColor=white) ![Elastic Load Balancing](https://img.shields.io/badge/ELB-%23FF9900.svg?style=plastic&logo=amazon-elb&logoColor=white) ![AWS SSM](https://img.shields.io/badge/SSM-%23FF9900.svg?style=plastic&logo=amazon-ssm&logoColor=white) 
 
 ### **DevOps Tools**
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=plastic&logo=amazon-aws&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05033?style=plastic&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=plastic&logo=github-actions&logoColor=white)
@@ -44,14 +46,14 @@
 
 ###
 
-<h2 align="left">Certifications</h2>
+<h2 align="left">🎓 Certifications</h2>
 
 ###
-<h3 align="left"> AWS Certified Cloud Practitioner : </h3>
+<h3 align="left">📝 AWS Certified Cloud Practitioner : </h3>
 
 <p align="left">Strengthened my understanding of AWS services, cloud computing principles, and best practices, providing a strong foundation for cloud-based solutions. </p>
 
-<h3 align="left"> AWS Cloud Quest : </h3>
+<h3 align="left">👨🏻‍💻 AWS Cloud Quest : </h3>
 
 <p align="left"> The practiced on practical implementation by utilizing AWS services within a real-time project.</p>
 
