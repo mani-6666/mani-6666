@@ -14,12 +14,11 @@
 
 ## 🌐 Connect with me on Socials :
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sushant-aher-a1b148263/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/mani66) 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sushant-aher-a1b148263/)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6281177458)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nvvdmanikanta6666@gmail.com)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mani66)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366.svg?logo=whatsapp&logoColor=white)](https://wa.me/6281177458)
+[![Email](https://img.shields.io/badge/Email-D14836.svg?logo=gmail&logoColor=white)](mailto:nvvdmanikanta6666@gmail.com)
 
 # 💻 Tech Stack:
   
